@@ -1,5 +1,9 @@
 # moudle
+
 ## The Core Functionality (core module)
+- Mat - The Basic Image Container
+ The last thing we want to do is further decrease the speed of your program by making unnecessary copies of potentially large images.
+
 ## Image Processing (imgproc module)
 ## High Level GUI and Media (highgui module)
 
